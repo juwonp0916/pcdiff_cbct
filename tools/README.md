@@ -37,7 +37,3 @@ python tools/visualization/visualize_ps.py context.npy generated.npy --axes
 ```
 
 Interactive viewers require a graphical desktop. Coordinate assumptions differ by viewer: inspect its help before combining normalized and denormalized arrays. The Polyscope viewer now defaults to CLI file arguments; its optional `FILES` and `LABELS` overrides are empty.
-
-## Older experiments
-
-[visualize_normalize.py](experiments/visualize_normalize.py) and [visualize_single_npy.py](experiments/visualize_single_npy.py) are preserved as manually configured experiments. They contain machine-specific paths and are not general-purpose CLIs.

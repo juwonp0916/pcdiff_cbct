@@ -37,8 +37,7 @@ pcdiff_cbct/
 ├── utils/                    # Logging, output management, and export helpers
 ├── tools/
 │   ├── evaluation/           # Checkpoint validation and point-cloud comparisons
-│   ├── visualization/        # Dental geometry and root-axis viewers
-│   └── experiments/          # Older scripts with manually configured paths
+│   └── visualization/        # Dental geometry and root-axis viewers
 ├── docs/                     # Setup, data contract, and architecture
 └── requirements.txt          # Core Python dependencies
 ```
