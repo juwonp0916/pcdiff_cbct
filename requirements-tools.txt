@@ -1,0 +1,5 @@
+# Optional evaluation and visualization dependencies.
+# Install alongside requirements.txt in the project environment.
+scikit-learn
+scipy
+polyscope

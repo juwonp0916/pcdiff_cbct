@@ -1,0 +1,28 @@
+data/
+.claude/
+__pycache__/
+validation/
+scripts/
+comparison_data/
+
+# Local data, experiments, and generated outputs
+data_eval/
+data_v2/
+results/
+runs/
+results_*.log
+output/
+*.pth
+*.pt
+*.zip
+*.tar.gz
+.DS_Store
+*.py[cod]
+.venv/
+.env
+
+# Local snapshot and separate research project
+/pcdiff/
+/axisflow/
+/MICCAI2027_PLAN.md
+*.ini
